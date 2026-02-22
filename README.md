@@ -3,7 +3,7 @@
 <div align="center">
   <img src="public/vite.svg" alt="BagBuilder Logo" width="120" height="120">
   
-  <h3>A disciplined crypto trading companion built by traders who learned the hard way.</h3>
+  <h3>A disciplined trading companion on Solana</h3>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,16 +15,16 @@
 
 ## 📖 Overview
 
-BagBuilder is an open-source crypto trading journal and portfolio tracker designed to help traders build disciplined habits. Track every trade, follow proven profit-taking rules, and build wealth—not gambling habits.
+BagBuilder is an open-source crypto trading journal and portfolio tracker designed to help traders build disciplined habits. Track every trade, follow proven profit-taking rules, and build long term wealth not gambling habits.
 
 ### ✨ Key Features
 
 - 🔐 **Anonymous Authentication** - No email required, just start trading
 - 📊 **Trade Logging** - Track spot and futures positions with detailed notes
-- 📈 **Portfolio Analytics** - Visualize your performance and identify patterns
+- 📈 **Portfolio Analytics** - Visualize your holdings and alert porfit taking on time.
 - 📝 **Trading Journal** - Document your thoughts and learn from past decisions
 - ⚖️ **Personalized Rules** - Get risk management rules based on your profile
-- 💰 **Stablecoin Tracking** - Monitor your reserves and contributions
+- 💰 **Stablecoin Tracking** - Monitor your reserves and suggest best yield and airdrop farming without risking your stables.
 - 🎯 **Profit-Taking System** - Built-in TP1/TP2 tracking for disciplined exits
 
 ---
@@ -229,8 +229,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Community
 
-- **Discord**: [Join our community](https://discord.gg/your-invite)
-- **Twitter**: [@BagBuilder](https://twitter.com/bagbuilder)
+- **Discord**: [Join our community](#)
+- **Twitter**: [@BagBuilder]()
 
 ---
 
@@ -239,6 +239,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p>
     <a href="#-quick-start">Get Started</a> •
     <a href="#-contributing">Contribute</a> •
-    <a href="https://github.com/yourusername/bagbuilder/issues">Report Bug</a>
+    <a href="https://github.com/AamirAlam/bag-builder/issues">Report Bug</a>
   </p>
 </div>
