@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #000;
+  --color-surface: #0a0a0a;
+  --color-alt: #111;
+  --color-border: #1a1a1a;
+  --color-tx: #fff;
+  --color-sub: #888;
+  --color-dim: #555;
+  --color-muted: #333;
+  --color-green: #00cc66;
+  --color-red: #ff4444;
+  --color-yellow: #ccaa00;
+  --font-display: "SF Pro Display", "Inter", -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  font-family: "SF Pro Display", "Inter", -apple-system, sans-serif;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(0.5);
+}
